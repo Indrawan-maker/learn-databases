@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-database-prisma-orm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indrawan-maker/Node-js.git"
+  },
+  "author": "Indra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indrawan-maker/Node-js/issues"
+  },
+  "homepage": "https://github.com/Indrawan-maker/Node-js#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/preset-env": "^7.27.2",
+    "@types/jest": "^29.5.14",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "prisma": "^6.7.0"
+  }
+}
