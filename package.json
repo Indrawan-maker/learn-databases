@@ -18,6 +18,8 @@
   "description": "",
   "devDependencies": {
     "@babel/preset-env": "^7.27.2",
+    "@babel/preset-react": "^7.27.1",
+    "@prisma/client": "^6.7.0",
     "@types/jest": "^29.5.14",
     "babel-jest": "^29.7.0",
     "jest": "^29.7.0",
